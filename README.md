@@ -10,4 +10,4 @@
 3. Execute the following command to create a virtual evironment - `python3 -m venv .venv`
 4. Execute the following command to activate the virtual environment - `.venv/Scripts/activate`
 5. Run this command to install all the necessary dependencies `pip install -r requirements.txt`
-6. Explore and execute any cell in [PO using GRU](Portfolio%20Optimization%20with%20GRU.ipynb) or [PO using LSTM](Portfolio%20Optimization%20Using%20LSTM_complex.ipynb) :smiley:
+6. Explore and execute any cell in [PO using GRU](Portfolio%20Optimization%20with%20GRU.ipynb) or [PO using LSTM](Portfolio%20Optimization%20with%20LSTM_complex.ipynb) :smiley:
